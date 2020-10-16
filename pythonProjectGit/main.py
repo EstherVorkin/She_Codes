@@ -8,6 +8,7 @@ def print_hi(name):
     print("Ciao and Hello and SHalom")
     print("ciao a tutti!")
     print("Learning new git stuff")
+    print("CONFLICT HERE TOO!!!")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':

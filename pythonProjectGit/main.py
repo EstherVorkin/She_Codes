@@ -5,7 +5,7 @@ import sys
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
-    print("ciao")
+    print("Ciao and Hello and SHalom")
     print("ciao a tutti!")
     print("Learning new git stuff")
 
